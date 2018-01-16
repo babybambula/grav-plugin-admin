@@ -661,9 +661,9 @@ PLUGIN_ADMIN:
   NO_CHILD_TYPE: "Kein Unterseitentyp für diese Rawroute"
   SORTABLE_PAGES: "Sortierbare Seiten:"
   UNSORTABLE_PAGES: "Nicht sortierbare Seiten:"
-  ADMIN_SPECIFIC_OVERRIDES: "Administrative Anpassugen"
+  ADMIN_SPECIFIC_OVERRIDES: "Administrative Anpassungen"
   ADMIN_CHILDREN_DISPLAY_ORDER: "Sortierung der Unterseiten"
-  ADMIN_CHILDREN_DISPLAY_ORDER_HELP: "Die Reihenfolge, die vom Admin Plugin verwendet werden soll um Unterseiten in der \"Seiten\" Ansicht anzuzeigen"
+  ADMIN_CHILDREN_DISPLAY_ORDER_HELP: "Die Reihenfolge, die vom Admin Plugin verwendet werden soll, um Unterseiten in der \"Seiten\" Ansicht anzuzeigen"
   PWD_PLACEHOLDER: "komplexe Zeichenfolge mindestens 8 Zeichen lang"
   PWD_REGEX: "Regulärer Ausdruck für Passwörter"
   PWD_REGEX_HELP: 'Standard: Das Passwort muss mindestens eine Zahl, einen Groß- und einen Kleinbuchstaben enthalten sowie mindestens 8 Zeichen lang sein'
